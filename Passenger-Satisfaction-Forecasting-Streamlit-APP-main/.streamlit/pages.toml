@@ -1,0 +1,14 @@
+[[pages]]
+path = "homepage.py"
+name = "Home"
+icon = "🏠"
+
+[[pages]]
+path = "pages/single.py"
+name = "Single Data Entry"
+icon = "📃"
+
+[[pages]]
+path = "pages/multi.py"
+name = "Multiple Data Entry"
+icon = "📂"
